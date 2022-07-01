@@ -2,15 +2,10 @@ export default {
     title: 'VT-Admin',
     description: '一个vue3管理后台模板',
     themeConfig: {
-        logo: '../assets/images/logo-space.svg',
+        logo: 'assets/images/logo-space.png',
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/tongwoo/vt-admin-app' }
+            {icon: 'github', link: 'https://github.com/tongwoo/vt-admin-app'}
         ],
-        algolia: {
-            appId: '8J64VVRP8K',
-            apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
-            indexName: 'vitepress'
-        },
         nav: [
             {
                 text: '指南',
