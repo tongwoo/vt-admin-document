@@ -29,7 +29,7 @@ docker run -d -e API=http://api.yourdomain.com -p 8888:80 --name docker-app myap
 docker-compose up -d
 ```
 
-启动成功后自行打开打开 [http://127.0.0.1:50000](http://127.0.0.1:50000)，或者打开 Docker 图形界面上的链接，如图：
+启动成功后不代表立即能访问，需要等待依赖安装完成后自行打开 [http://127.0.0.1:50000](http://127.0.0.1:50000)，或者打开 Docker 图形界面上的链接，如图：
 
 
 ![../assets/images/app-docker-compose-open.png](../assets/images/app-docker-compose-open.png)

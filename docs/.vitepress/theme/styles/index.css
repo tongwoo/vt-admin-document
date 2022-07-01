@@ -1,3 +1,14 @@
+:root {
+    --vp-c-green: #2f6beb;
+    --vp-c-green-light: #2c6fff;
+    --vp-c-green-lighter: #3b6cff;
+    --vp-c-green-dark: #295ecd;
+    --vp-c-green-darker: #224aa0;
+    --vp-c-green-dimm-1: rgba(66, 184, 131, 0.5);
+    --vp-c-green-dimm-2: rgba(66, 184, 131, 0.25);
+    --vp-c-green-dimm-3: rgba(66, 184, 131, 0.05);
+}
+
 .VPNavBar {
 }
 
