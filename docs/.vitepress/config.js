@@ -2,7 +2,7 @@ export default {
     title: 'VT-Admin',
     description: '一个vue3管理后台模板',
     themeConfig: {
-        logo: 'assets/images/logo-space.png',
+        logo: '/images/logo-space.svg',
         socialLinks: [
             {icon: 'github', link: 'https://github.com/tongwoo/vt-admin-app'}
         ],
